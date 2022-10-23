@@ -1,13 +1,1 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Название документа (страницы)</title>
-  </head>
-  <body>
-    <h1>Заголовок страницы</h1>
-    <p>Параграф текста</p>
-  </body>
-</html>
-# my_project-
-# my_project-
-# my_project-
+# my_project
